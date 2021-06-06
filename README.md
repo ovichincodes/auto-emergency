@@ -2,8 +2,6 @@
 
 ## About AEAS
 
----
-
 AEAS is a web application which aim is to help users navigate their way out of any emergency they encounter. It is built upon the [Laravel Framework](https://laravel.com/) which uses the MVC architecture. The following are some of the features of this application:
 
 -   Registration and login for both normal users and mechanics.
