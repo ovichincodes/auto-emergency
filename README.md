@@ -2,7 +2,7 @@
 
 ## About AEAS
 
-AEAS is a web application which aim is to help users navigate their way out of any emergency they encounter. It is built upon the [Laravel Framework](https://laravel.com/) which uses the MVC architecture. The following are some of the features of this application:
+AEAS is a web application that aims to help users navigate their way out of any emergency they encounter. It is built upon the [Laravel Framework](https://laravel.com/) which uses the MVC architecture. The following are some of the features of this application:
 
 -   Registration and login for both normal users and mechanics.
 -   Uses basic [Google Maps Javascript API](https://developers.google.com/maps)
@@ -17,11 +17,11 @@ AEAS is a web application which aim is to help users navigate their way out of a
 
 # Installing Dependencies
 
-Prior to this time, make sure to have [composer](https://getcomposer.org/) up and running in your machine. Now run `composer install` to install the dependencies in the the composer.json file also run `npm install` command to install the dependencies in the package.json file. Note that you must have [Node JS](https://nodejs.org/) runtime env running in your machine.
+Prior to this time, make sure to have [composer](https://getcomposer.org/) up and running in your machine. Now run `composer install` to install the dependencies in the composer.json file also run `npm install` command to install the dependencies in the package.json file. Note that you must have [Node JS](https://nodejs.org/) runtime env running in your machine.
 
 # Integrating Google Maps
 
-Please note taht before using Google Maps, you must first create a google account, which will be used to access the [Google Cloud Platform](https://developers.google.com/maps).
+Please note that before using Google Maps, you must first create a google account, which will be used to access the [Google Cloud Platform](https://developers.google.com/maps).
 
 After creating your account, you proceed to getting your [API KEY](https://developers.google.com/maps/documentation/javascript/get-api-key) which will be used in the project. Follow the instructions on the page carefully to create one.
 
